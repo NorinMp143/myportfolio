@@ -1,26 +1,26 @@
 {
-    "name": "Bharat Agarwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "Madan Lal",
+    "title": "Full Stack Developer",
+    "intro": "I am a full stack developer.",
     "skills": [{
-            "title": "Skill 1",
+            "title": "PHP",
             "rating": "90"
         },
         {
-            "title": "Skill 2",
-            "rating": "97"
+            "title": "Bootstrap",
+            "rating": "90"
         },
         {
-            "title": "Skill 3",
-            "rating": "85"
+            "title": "HTML",
+            "rating": "100"
         },{
-            "title": "Skill 1",
-            "rating": "90"
+            "title": "CSS",
+            "rating": "100"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Lovely Professional University",
+        "phone": "1234567890",
+        "email": "madanparmar637@gmail.com"
     }
 }
